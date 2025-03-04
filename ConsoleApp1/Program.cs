@@ -18,7 +18,7 @@ class Program {
 
             double logResult = logPolyTerm + logExponentialTerm;
 
-            Console.WriteLine($"Für n = 100:");
+            Console.WriteLine($"Für n = {n}:");
             Console.WriteLine($"Polynom-Term (n² log² n): {polyTerm}");
             Console.WriteLine($"Exponent (3/4 * n * log n): {exponent}");
             Console.WriteLine($"Log-Ergebnis: {logResult}");
