@@ -1,0 +1,7 @@
+C:\Users\olesc\Desktop\Studium IUBH\Semester 5\Seminar Software Engineering (ISSE)\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\olesc\Desktop\Studium IUBH\Semester 5\Seminar Software Engineering (ISSE)\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\olesc\Desktop\Studium IUBH\Semester 5\Seminar Software Engineering (ISSE)\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\olesc\Desktop\Studium IUBH\Semester 5\Seminar Software Engineering (ISSE)\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\olesc\Desktop\Studium IUBH\Semester 5\Seminar Software Engineering (ISSE)\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\olesc\Desktop\Studium IUBH\Semester 5\Seminar Software Engineering (ISSE)\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\olesc\Desktop\Studium IUBH\Semester 5\Seminar Software Engineering (ISSE)\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
